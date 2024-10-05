@@ -14,5 +14,3 @@ Provide a key mapping for monoalphabetic substitution.
 Enter a keyword for autokey, Playfair, and Vigenère ciphers.
 Format plaintext and create a 5x5 matrix for the Playfair cipher.
 For transposition ciphers, provide necessary keys and handle the text accordingly.
-# EXAMPLES:
-
